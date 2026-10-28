@@ -18,7 +18,7 @@ Official repositories responsible for the production, processing, validation, an
 Repositories dedicated to the generation of thematic collections for land use and land cover mapping in Uruguay: 
 https://github.com/mapbiomas/uruguay-lulc 
 
-Water: To be released soon
+Water :https://github.com/mapbiomas/uruguay-water To be released soon
 
 ### 🔎 Cross-cutting Themes
 
