@@ -1,5 +1,6 @@
 .
-<img width="476" height="128" alt="image" src="https://github.com/user-attachments/assets/d27981ea-438e-4537-a1a0-1680d1c4ccba" />
+<img width="476" height="128" alt="image" src="[<img width="2170" height="725" alt="Logo MapBiomas Uruguay en mosaico" src="https://github.com/user-attachments/assets/6a18941a-07d0-475e-83f4-02cec8bdb477" />
+]" />
 
 # UY Uruguay — Official GitHub Repositories 🌎
 
